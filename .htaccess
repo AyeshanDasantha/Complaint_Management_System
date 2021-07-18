@@ -1,0 +1,8 @@
+RewriteEngine On
+
+
+ErrorDocument 400 /ErrorPages/400.php
+ErrorDocument 401 /ErrorPages/401.php
+ErrorDocument 403 /ErrorPages/403.php
+ErrorDocument 404 /ErrorPages/404.php
+ErrorDocument 500 /ErrorPages/500.php
